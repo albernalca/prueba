@@ -1,0 +1,11 @@
+.no-bold h4 {
+    font-weight: normal;
+  }
+  .no-bold h4 {
+    font-weight: normal;
+  }
+  
+  li:not(:last-child) {
+    margin-bottom: 10px; /* Ajusta el valor según el espaciado deseado */
+  }
+  
